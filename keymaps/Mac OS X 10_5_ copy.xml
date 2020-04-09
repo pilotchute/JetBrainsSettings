@@ -1,0 +1,13 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta 3" />
+  </action>
+  <action id="FindInPath" />
+  <action id="Macro.supersave">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+</keymap>
