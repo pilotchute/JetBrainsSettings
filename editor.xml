@@ -32,6 +32,7 @@
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
