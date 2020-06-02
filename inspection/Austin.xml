@@ -1428,7 +1428,7 @@
     <option name="insideTryAllowed" value="false" />
   </inspection_tool>
   <inspection_tool class="IdempotentLoopBody" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="IfCanBeAssertion" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="IfCanBeAssertion" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="IfCanBeSwitch" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="minimumBranches" value="3" />
     <option name="suggestIntSwitches" value="false" />
