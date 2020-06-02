@@ -4,7 +4,7 @@
     <property name="created">2017-06-10T18:22:45</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2020-05-28T01:47:00</property>
+    <property name="modified">2020-06-01T21:40:02</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -330,7 +330,11 @@
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8000" />
