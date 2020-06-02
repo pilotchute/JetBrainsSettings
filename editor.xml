@@ -11,6 +11,7 @@
     <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="SMART_BACKSPACE" value="2" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Austin" />
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
