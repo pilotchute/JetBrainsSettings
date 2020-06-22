@@ -4,13 +4,14 @@
     <property name="created">2017-06-10T18:22:45</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2020-06-01T22:11:46</property>
+    <property name="modified">2020-06-22T14:27:15</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
+    <option name="CARET_COLOR" value="a0a0a0" />
     <option name="CARET_ROW_COLOR" value="f0f0f0" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -27,8 +28,6 @@
     <option name="WHITESPACES" value="c0c0c0" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -101,6 +100,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -171,8 +171,6 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -185,12 +183,6 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
-    <option name="DEFAULT_TAG">
-      <value>
-        <option name="BACKGROUND" value="f0f0f0" />
-      </value>
-    </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -250,7 +242,6 @@
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -268,25 +259,6 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
-    <option name="INLINE_PARAMETER_HINT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="f0f0f0" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="f0f0f0" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="f0f0f0" />
-      </value>
-    </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -310,11 +282,19 @@
         <option name="BACKGROUND" value="c0c0c0" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="800080" />
       </value>
     </option>
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -328,16 +308,13 @@
         <option name="BACKGROUND" value="e0e0e0" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-      </value>
-    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8000" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -351,7 +328,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="FOREGROUND" value="808080" />
