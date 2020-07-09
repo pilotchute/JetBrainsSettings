@@ -4,7 +4,7 @@
     <property name="created">2017-06-10T18:22:45</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2020-06-22T14:27:15</property>
+    <property name="modified">2020-07-09T12:19:30</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -312,9 +312,6 @@
       <value>
         <option name="FOREGROUND" value="8000" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
