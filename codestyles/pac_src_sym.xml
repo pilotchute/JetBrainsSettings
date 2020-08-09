@@ -1,5 +1,6 @@
 <code_scheme name="pac_src_sym" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="80" />
   <JavaCodeStyleSettings>
     <option name="PREFER_LONGER_NAMES" value="false" />
     <option name="VISIBILITY" value="protected" />

@@ -6,6 +6,7 @@
   <component name="CodeInsightSettings">
     <option name="SMART_BACKSPACE" value="2" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Austin" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
