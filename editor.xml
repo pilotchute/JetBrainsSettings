@@ -3,70 +3,15 @@
     <option name="collapseAndroidStrings" value="false" />
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
   <component name="CodeInsightSettings">
-    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="SMART_BACKSPACE" value="2" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Austin" />
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CFML" value="true" />
-        <entry key="CSS" value="true" />
-        <entry key="FTL" value="true" />
-        <entry key="Groovy" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="Haml" value="true" />
-        <entry key="JAVA" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JSP" value="true" />
-        <entry key="JSPX" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="Stylus" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="VTL" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="kotlin" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="SHOW_INTENTION_BULB" value="false" />
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_BLOCK_CURSOR" value="true" />
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-    <option name="PRESELECT_RENAME" value="false" />
-  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
-  </component>
-  <component name="SqlFoldingSettings">
-    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=todo)(.)" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingEnabled" value="false" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
-    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
