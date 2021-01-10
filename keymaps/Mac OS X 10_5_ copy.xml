@@ -1,13 +1,47 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="CommentByBlockComment" />
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="shift meta 3" />
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="FindInPath" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoAction" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="Macro.SuperSave">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Macro.supersave">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ViewSource" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
