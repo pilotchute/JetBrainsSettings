@@ -11,6 +11,9 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Menlo" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_BULB" value="false" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
