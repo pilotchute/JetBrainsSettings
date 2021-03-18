@@ -1,10 +1,10 @@
-<scheme name="Austin" version="142" parent_scheme="Default">
+<scheme name="Austin copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-22T14:13:49</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-08-31T18:22:25</property>
+    <property name="created">2020-08-27T16:30:40</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-08-27T16:31:52</property>
     <property name="originalScheme">Austin</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -310,15 +310,11 @@
         <option name="BACKGROUND" value="c0c0c0" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="800080" />
+      </value>
+    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="FOREGROUND" value="ffffff" />
