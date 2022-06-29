@@ -1,0 +1,18 @@
+<code_scheme name="Default" version="173">
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="HANG_CLOSING_BRACKETS" value="true" />
+  </Python>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="160" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+</code_scheme>
