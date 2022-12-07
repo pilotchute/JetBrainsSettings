@@ -2,6 +2,7 @@
   <component name="download-consent">
     <option name="consentItems">
       <item download="DENIED" kind="jdk" url="https://index-cdn.jetbrains.com/v2/jdk" />
+      <item download="DENIED" kind="python" url="https://index-cdn.jetbrains.com/v2" />
     </option>
   </component>
 </application>

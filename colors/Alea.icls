@@ -1,21 +1,24 @@
-<scheme name="Austin" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="Alea" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-06-22T14:13:49</property>
+    <property name="created">2021-10-28T10:48:31</property>
     <property name="ide">Python</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-08-31T18:22:25</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2022-08-01T17:41:10</property>
     <property name="originalScheme">Austin</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ANNOTATIONS_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="f0f0f0" />
+    <option name="DELETED_LINES_COLOR" value="" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="" />
     <option name="INDENT_GUIDE" value="e0e0e0" />
     <option name="LINE_NUMBERS_COLOR" value="a0a0a0" />
+    <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="f0f0f0" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="c0c0c0" />
@@ -23,8 +26,14 @@
     <option name="SELECTION_BACKGROUND" value="808080" />
     <option name="SEPARATOR_ABOVE_COLOR" value="e0e0e0" />
     <option name="SEPARATOR_BELOW_COLOR" value="e0e0e0" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="f0f0f0" />
     <option name="WHITESPACES" value="c0c0c0" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
@@ -148,7 +157,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="ff" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -310,15 +319,21 @@
         <option name="BACKGROUND" value="c0c0c0" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="7f00" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="800080" />
+      </value>
+    </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="FOREGROUND" value="ffffff" />

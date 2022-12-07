@@ -762,5 +762,32 @@
     <ignoreAction name="SQL/Inline CTE" />
     <ignoreAction name="XSLT/Convert 'xsl:if' to 'xsl:choose'" />
     <ignoreAction name="XSLT/Replace with 'xsl:attribute'" />
+    <ignoreAction name="JSON/Evaluate JSONPath Expression" />
+    <ignoreAction name="Microservices/Open in web browser" />
+    <ignoreAction name="Other/Create new scratch file from selection" />
+    <ignoreAction name="Other/Flip comma" />
+    <ignoreAction name="Other/Put elements on multiple lines" />
+    <ignoreAction name="Other/Put elements on one line" />
+    <ignoreAction name="Other/Rollback changes in current line" />
+    <ignoreAction name="Python/Convert dict constructor to dict literal" />
+    <ignoreAction name="Python/Convert format operator to 'str.format' method call" />
+    <ignoreAction name="Python/Convert list comprehensions to 'for' loop" />
+    <ignoreAction name="Python/Convert single-quoted to double-quoted strings and vice versa" />
+    <ignoreAction name="Python/Convert variadic parameters to normal" />
+    <ignoreAction name="Python/De Morgan's law" />
+    <ignoreAction name="Python/Insert docstring stub" />
+    <ignoreAction name="Python/Invert 'if' condition" />
+    <ignoreAction name="Python/Join 'if' statements" />
+    <ignoreAction name="Python/Replace string concatenation with 'str.format'" />
+    <ignoreAction name="Python/Split 'if' statement" />
+    <ignoreAction name="Python/Switch using import aliases" />
+    <ignoreAction name="Python/Transform conditional expressions into 'if/else' statements" />
+    <ignoreAction name="Python/Transform explicit iterations with 'yield' into 'yield from' expressions" />
+    <ignoreAction name="TOML/Expand into separate table" />
+    <ignoreAction name="XML/Add 'xsi:schemaLocation' attribute" />
+    <ignoreAction name="XML/Choose color" />
+    <ignoreAction name="XML/Convert text to CDATA" />
+    <ignoreAction name="XML/Manually set up external resource" />
+    <ignoreAction name="XML/Remove tag (preserves children)" />
   </component>
 </application>
