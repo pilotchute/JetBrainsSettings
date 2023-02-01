@@ -1170,6 +1170,17 @@
   </inspection_tool>
   <inspection_tool class="ForeachStatement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FormSpellChecking" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranConstructNameMismatch" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="FortranContinue" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranLabeledDo" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranNonstandardKind" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranObsoleteOperator" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranProgramUnitNameMismatch" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="FortranStmtOrder" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="FortranTypeCheck" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranUnresolvedLabel" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="FortranUnusedConstructName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="FortranUnusedLabel" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ForwardCompatibility" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FrequentlyUsedInheritorInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="FromClosedRangeMigration" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -1454,6 +1465,7 @@
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlWrongAttributeValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HttpRequestPlaceholder" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="I18nForm" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="IOResource" enabled="false" level="WARNING" enabled_by_default="false">
@@ -2333,6 +2345,7 @@
   <inspection_tool class="PyCallingNonCallableInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyClassHasNoInitInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyClassVarInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyComparisonWithNoneInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2420,9 +2433,16 @@
   <inspection_tool class="PyUnboundLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyUnnecessaryBackslashInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyUnreachableCodeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="Gallery.PlotElementsExplanation.PlotElementsExplanation.GeoAxes" />
+      </list>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyramidSetupInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="QodanaServiceMessage" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="QsPrivateBeanMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="QsProperties" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="QsUndeclaredPathMimeTypesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -2450,6 +2470,7 @@
   <inspection_tool class="ReadObjectInitialization" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReadResolveAndWriteReplaceProtected" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReadWriteStringCanBeUsed" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ReassignedToPlainText" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RecordStoreResource" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RecursiveEqualsCall" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RecursivePropertyAccessor" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -2518,6 +2539,7 @@
   <inspection_tool class="RegExpEmptyAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpEscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="RegExpOctalEscape" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="RegExpRedundantClassElement" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpRedundantEscape" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpRedundantNestedCharacterClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpRepeatedSpace" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -2586,6 +2608,7 @@
   <inspection_tool class="ReservedWordUsedAsNameJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RestParamTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="RestResourceMethodInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="RestRoleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RestWrongDefaultValueInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="Restricted_Python_calls" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ResultOfObjectAllocationIgnored" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -3264,6 +3287,8 @@
   <inspection_tool class="VtlInterpolationsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="VtlReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VtlTypesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="VulnerableLibrariesGlobal" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="W3CssValidation" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myCssVersion" value="css3svg" />
     <option name="myIgnoreVendorSpecificProperties" value="false" />
