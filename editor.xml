@@ -1,0 +1,35 @@
+<application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SMART_BACKSPACE" value="2" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Alea" />
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="PRESELECT_RENAME" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+</application>
