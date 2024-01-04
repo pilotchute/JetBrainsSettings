@@ -11,9 +11,6 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
-  <component name="CodeVisionSettings">
-    <option name="enabled" value="false" />
-  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Alea" />
   <component name="EditorSettings">
     <option name="SHOW_INTENTION_BULB" value="false" />
@@ -23,9 +20,6 @@
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-  </component>
-  <component name="InlineCompletionOnboarding">
-    <option name="onboardingFinished" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
