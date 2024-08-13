@@ -31,18 +31,6 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Alea" />
   <component name="DeclarativeInlayHintsSettings">
-    <option name="disabledOptions">
-      <set>
-        <option value="js.type.hints#function.returns" />
-        <option value="js.type.hints#non.paren.single.param" />
-        <option value="js.type.hints#parameters.in.parens" />
-        <option value="js.type.hints#variables.and.fields" />
-        <option value="ts.type.hints#function.returns" />
-        <option value="ts.type.hints#non.paren.single.param" />
-        <option value="ts.type.hints#parameters.in.parens" />
-        <option value="ts.type.hints#variables.and.fields" />
-      </set>
-    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="false" />
