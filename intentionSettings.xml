@@ -789,5 +789,9 @@
     <ignoreAction name="XML/Convert text to CDATA" />
     <ignoreAction name="XML/Manually set up external resource" />
     <ignoreAction name="XML/Remove tag (preserves children)" />
+    <ignoreAction name="AI Assistant/AI Actions…" />
+    <ignoreAction name="AI Assistant/Intention on selected code" />
+    <ignoreAction name="Dev Containers/Add currently modified settings from IDE" />
+    <ignoreAction name="Python/Generate for selected code" />
   </component>
 </application>

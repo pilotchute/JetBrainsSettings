@@ -36,6 +36,8 @@
         <entry key="js.chain.hints" value="false" />
         <entry key="js.type.hints" value="false" />
         <entry key="qodana.yaml.inspection.descriptions" value="false" />
+        <entry key="sql.column.names.inlay.hints" value="true" />
+        <entry key="sql.join.cardinality.hints" value="true" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="false" />
         <entry key="ts.type.hints" value="false" />
