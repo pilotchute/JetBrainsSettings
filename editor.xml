@@ -5,7 +5,9 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="SMART_BACKSPACE" value="2" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
@@ -49,6 +51,10 @@
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
+    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="false" />
+  </component>
+  <component name="HtmlSettings">
+    <option name="AUTO_POPUP_TAG_CODE_COMPLETION_ON_TYPING_IN_TEXT" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
@@ -70,5 +76,13 @@
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" NON_STRICT_FOREIGN_KEYS="false" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+    <option name="supportNonStrictForeignKeys" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
 </application>
