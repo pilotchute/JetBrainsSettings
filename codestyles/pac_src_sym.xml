@@ -1,6 +1,6 @@
 <code_scheme name="pac_src_sym" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="160" />
   <option name="FORMATTER_TAGS_ENABLED" value="false" />
   <JavaCodeStyleSettings>
     <option name="PREFER_LONGER_NAMES" value="false" />
@@ -23,8 +23,9 @@
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
   <Python>
-    <option name="ALIGN_MULTILINE_IMPORTS" value="false" />
     <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
+    <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
+    <option name="SPACE_BEFORE_NUMBER_SIGN" value="false" />
     <option name="DICT_WRAPPING" value="5" />
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
@@ -32,6 +33,7 @@
     <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
     <option name="HANG_CLOSING_BRACKETS" value="true" />
   </Python>
   <codeStyleSettings language="Fortran">
@@ -161,6 +163,7 @@
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
