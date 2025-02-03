@@ -1,4 +1,5 @@
-<profile version="1.0" is_locked="true">
+<profile version="1.0">
+  <option name="myName" value="Alea" />
   <option name="myName" value="Alea" />
   <inspection_tool class="AbsoluteAlignmentInUserInterface" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -2513,7 +2514,7 @@
   <inspection_tool class="PyTrailingSemicolonInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyTupleAssignmentBalanceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyTupleItemAssignmentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PyTypeCheckerInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyTypeHintsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyTypedDictInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyUnboundLocalVariableInspection" enabled="true" level="WARNING" enabled_by_default="true" />
