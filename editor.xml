@@ -47,6 +47,11 @@
     </option>
   </component>
   <component name="EditorSettings">
+    <option name="languageStickyLines">
+      <map>
+        <entry key="Jupyter" value="false" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
